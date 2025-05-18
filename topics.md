@@ -337,6 +337,7 @@
 
 ## ai 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
 - [quinneden/acmsg](https://github.com/quinneden/acmsg) - AI generated git commit messages using the OpenRouter API.
 - [jhgaylor/node-candidate-mcp-server](https://github.com/jhgaylor/node-candidate-mcp-server) - A Model Context Protocol (MCP) server library that gives LLMs access to information about a candidate.
@@ -546,7 +547,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [Xyntopia/vexvault](https://github.com/Xyntopia/vexvault) - browser based vector storage
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, Mus
 - [mendableai/mendable-nextjs-chatbot](https://github.com/mendableai/mendable-nextjs-chatbot) - Next.js Starter Template for building chatbots with Mendable
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -1664,6 +1665,7 @@
 
 ## c 
 
+- [splinedrive/lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv) - A c/RISCV of "Let's Build a Compiler" by Jack Crenshaw
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
@@ -1823,6 +1825,7 @@
 
 ## chatbot 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
@@ -1984,7 +1987,6 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -2412,6 +2414,7 @@
 
 ## compiler 
 
+- [splinedrive/lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv) - A c/RISCV of "Let's Build a Compiler" by Jack Crenshaw
 - [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
@@ -2464,6 +2467,7 @@
 
 ## computer-science 
 
+- [splinedrive/lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv) - A c/RISCV of "Let's Build a Compiler" by Jack Crenshaw
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
@@ -3168,6 +3172,7 @@
 
 ## deep-learning 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
@@ -3275,7 +3280,6 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A
 - [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
@@ -3418,7 +3422,7 @@
 
 ## deployment 
 
-- [opensass/aibook](https://github.com/opensass/aibook) - (WIP) 🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
+- [opensass/aibook](https://github.com/opensass/aibook) - 🦀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [MikeBild/sveltekit-adapter-aws](https://github.com/MikeBild/sveltekit-adapter-aws) - A SvelteKit adapter for AWS using the AWS-CDK
@@ -3435,7 +3439,7 @@
 
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -4208,7 +4212,7 @@
 ## frontend 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [adam-mcdaniel/sage](https://github.com/adam-mcdaniel/sage) - A programming language that's wise beyond its bytes!🌱🌿🪴
@@ -4385,6 +4389,7 @@
 
 ## git 
 
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
@@ -4967,12 +4972,11 @@
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
@@ -6215,6 +6219,7 @@
 
 ## linux 
 
+- [splinedrive/kianRiscV](https://github.com/splinedrive/kianRiscV) - RISC-V Linux SoC, marchID: 0x2b
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powe
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
@@ -6472,7 +6477,7 @@
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, GLM4, Mistral, Yi1.5, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, Int
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, 
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
@@ -6724,7 +6729,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -6927,7 +6932,6 @@
 - [kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A
 - [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -7271,7 +7275,7 @@
 
 ## mongodb 
 
-- [opensass/aibook](https://github.com/opensass/aibook) - (WIP) 🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
+- [opensass/aibook](https://github.com/opensass/aibook) - 🦀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project management tool for tiny teams
@@ -7375,7 +7379,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, Mus
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -7579,7 +7583,7 @@
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [adrianhajdin/podcastr](https://github.com/adrianhajdin/podcastr) - 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [6677-ai/tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
@@ -7774,7 +7778,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
@@ -8382,6 +8386,9 @@
 
 ## others 
 
+- [Nicoshev/rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm.
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [facebookresearch/fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [openai/simple-evals](https://github.com/openai/simple-evals) - 
@@ -8624,7 +8631,7 @@
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [HITsz-TMG/FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
 - [RustForWeb/shadcn-ui](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end. Easily fine-tune Qwen3, DeepSeek-R1, Llama 4 or any open source LLM and VLM.
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen3, DeepSeek-R1, Llama 4 or any open source LLM / VLM!
 - [google/meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -8717,7 +8724,7 @@
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - AllenAI's post-training codebase
 - [trumank/repak](https://github.com/trumank/repak) - Unreal Engine .pak file library and CLI in rust
 - [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 550+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +600 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -8918,7 +8925,7 @@
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [Autossh/autossh](https://github.com/Autossh/autossh) - This is an unofficial image,If you are the owner, you can apply for ownership.
-- [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet (including dnscheck.tools and myaddr.tools)
+- [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) - possibly useful tools for the Internet
 - [atar-axis/xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 - [nginx/njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 - [OpenPrinting/cups-browsed](https://github.com/OpenPrinting/cups-browsed) - 
@@ -10134,7 +10141,7 @@
 - [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://www.merklemap.com/
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
 - [Gadersd/stable-diffusion-xl-burn](https://github.com/Gadersd/stable-diffusion-xl-burn) - Stable Diffusion XL ported to Rust's burn framework
-- [Rustin170506/lr](https://github.com/Rustin170506/lr) - LeetCode in Rust to activate my stupid brain.
+- [0xPoe/lr](https://github.com/0xPoe/lr) - LeetCode in Rust to activate my stupid brain.
 - [Lissy93/wapalyzer](https://github.com/Lissy93/wapalyzer) - 🌐 Identify the technologies powering any website. This is a fork of the now deleted Wappalyzer project by @AliasIO and community.
 - [ykk648/AnimateDiff-I2V](https://github.com/ykk648/AnimateDiff-I2V) - AnimateDiff I2V version.
 - [JosephPai/Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face) - 📖 A curated list of resources dedicated to talking face.
@@ -11369,6 +11376,7 @@
 
 ## privacy 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
@@ -11475,6 +11483,7 @@
 
 ## python 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [quinneden/acmsg](https://github.com/quinneden/acmsg) - AI generated git commit messages using the OpenRouter API.
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
@@ -12179,7 +12188,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -12659,7 +12668,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
 - [arkflow-rs/arkflow](https://github.com/arkflow-rs/arkflow) - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
-- [opensass/aibook](https://github.com/opensass/aibook) - (WIP) 🦀 An Insanely Fast 🚀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
+- [opensass/aibook](https://github.com/opensass/aibook) - 🦀 Full Stack Content Generation SaaS Platform Powered by Dioxus, Dioxus Server Functions, Axum, Unsplash, Gemini AI & MongoDB.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
@@ -13369,6 +13378,7 @@
 
 ## self-hosted 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -13805,6 +13815,7 @@
 
 ## stable-diffusion 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal) - :metal: TT-NN operator library, and TT-Metalium low level kernel programming model.
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [ollama-cloud/get-started](https://github.com/ollama-cloud/get-started) - Ollama Cloud is a Highly Scalable Cloud-native Stack for Ollama
@@ -14007,7 +14018,7 @@
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [braden-w/whispering](https://github.com/braden-w/whispering) - 
 - [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -14297,6 +14308,7 @@
 
 ## text-to-speech 
 
+- [Capsize-Games/airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -14317,7 +14329,7 @@
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [lucidrains/voicebox-pytorch](https://github.com/lucidrains/voicebox-pytorch) - Implementation of Voicebox, new SOTA Text-to-speech network from MetaAI, in Pytorch
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, Mus
 - [jaywalnut310/vits](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
@@ -14402,7 +14414,7 @@
 - [shardeum/shardeum](https://github.com/shardeum/shardeum) - Shardeum is an EVM based autoscaling blockchain
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
@@ -14636,7 +14648,7 @@
 - [maoserr/epublifier](https://github.com/maoserr/epublifier) - Converts some webnovels to epub format
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App
 - [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -14905,7 +14917,6 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -15160,6 +15171,7 @@
 
 ## zig 
 
+- [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation for the zig programming language
 - [Dr-Nekoma/lyceum](https://github.com/Dr-Nekoma/lyceum) - An MMO game written in Erlang (+ PostgreSQL) + Zig (+ Raylib)
