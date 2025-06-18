@@ -406,7 +406,7 @@
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
@@ -1083,6 +1083,7 @@
 
 ## Cuda 
 
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 - [NVIDIA/AMGX](https://github.com/NVIDIA/AMGX) - Distributed multigrid linear solver library on GPU
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 - [pyscf/gpu4pyscf](https://github.com/pyscf/gpu4pyscf) - A plugin to use Nvidia GPU in PySCF package
@@ -1316,7 +1317,7 @@
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [baalimago/wd-41](https://github.com/baalimago/wd-41) - Web-Development 41, a static web server with live-reload
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -1576,6 +1577,7 @@
 
 ## HTML 
 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [ykhli/ascii-logo](https://github.com/ykhli/ascii-logo) - 
 - [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
@@ -1869,7 +1871,7 @@
 - [pjwoodard/larry](https://github.com/pjwoodard/larry) - Larry is a frontend for PKCS11 that can be used with hardware security modules that support it.
 - [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
 - [sangammukherjee/25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects) - 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 - [safak/next14-tutorial](https://github.com/safak/next14-tutorial) - 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -2109,7 +2111,7 @@
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [zahidkhawaja/langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -4811,6 +4813,7 @@
 
 ## Rust 
 
+- [jsgroth/jgenesis](https://github.com/jsgroth/jgenesis) - Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator
 - [rorosen/zeekstd](https://github.com/rorosen/zeekstd) - Rust implementation of the Zstandard Seekable Format
 - [AI314159/Seastar](https://github.com/AI314159/Seastar) - A simple, unified build system inspired by Cargo for C, C++, and maybe Rust
 - [garyttierney/me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games.
@@ -6426,7 +6429,7 @@
 - [vonovak/react-native-theme-control](https://github.com/vonovak/react-native-theme-control) - Natively control react native application theme at runtime and persist it for the next app start.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [mluogh/grontown](https://github.com/mluogh/grontown) - A murder mystery featuring generative agents
-- [mongodb/chatbot](https://github.com/mongodb/chatbot) - MongoDB Chatbot Framework. Powered by MongoDB  and Atlas Vector Search.
+- [mongodb/chatbot](https://github.com/mongodb/chatbot) - MongoDB Knowledge Service. Powered by MongoDB  and Atlas Vector Search.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [upstash/redis-js](https://github.com/upstash/redis-js) - HTTP based Redis Client for Serverless and Edge Functions
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
@@ -6796,7 +6799,7 @@
 - [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
 - [langchain-ai/langchain-template-supabase](https://github.com/langchain-ai/langchain-template-supabase) - 
 - [craftzdog/vlog-translator](https://github.com/craftzdog/vlog-translator) - A Personal Tool for Transcribing & Translating My Vlogs into Japanese
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
