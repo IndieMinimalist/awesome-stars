@@ -207,9 +207,8 @@
 - [splinedrive/lets_build_a_compiler_for_riscv](https://github.com/splinedrive/lets_build_a_compiler_for_riscv) - A c/RISCV of "Let's Build a Compiler" by Jack Crenshaw
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [openemv/tr31](https://github.com/openemv/tr31) - Key block library and tools for ANSI X9.143, ASC X9 TR-31 and ISO 20038
-- [proto-at-block/bitkey](https://github.com/proto-at-block/bitkey) - Bitkey is a self-custody bitcoin wallet with an app, hardware, and recovery tools.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
-- [duixcom/Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [camel-cdr/bfcpp](https://github.com/camel-cdr/bfcpp) - Optimizing Brainfuck interpreter in the C preprocessor
 - [AmineDiro/ferrules](https://github.com/AmineDiro/ferrules) - Modern, fast, document parser written in  🦀
@@ -303,7 +302,7 @@
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
-- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [enjoy-digital/litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 - [Dav1dde/glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 - [analogdevicesinc/no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
@@ -567,7 +566,7 @@
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [ByteOverlord/Watch_Quake](https://github.com/ByteOverlord/Watch_Quake) - Quake 1 port for Apple Watch
 - [ByteOverlord/Watch_Quake2](https://github.com/ByteOverlord/Watch_Quake2) - Quake 2 port for Apple Watch
-- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
+- [unum-cloud/UCall](https://github.com/unum-cloud/UCall) - Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring ☎️
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
@@ -725,7 +724,7 @@
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [lraton/FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
 - [sirius-db/sirius](https://github.com/sirius-db/sirius) - 
@@ -757,7 +756,7 @@
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [bytedance/flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
-- [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。  支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
+- [duixcom/Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 The best real-time interactive AI avatar(digital human) with on-premise deployment and &lt;1.5 s latency.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
@@ -957,7 +956,7 @@
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [OpenXRay/xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63796, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63834, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
@@ -1293,6 +1292,7 @@
 
 ## Go 
 
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Main repository for Datadog Agent
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
@@ -1701,6 +1701,8 @@
 
 ## HTML 
 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+- [cloud-shuttle/leptos-shadcn-ui](https://github.com/cloud-shuttle/leptos-shadcn-ui) - 🚀 Production-ready Leptos UI components with 100% TDD coverage. Advanced validation, accessibility-first design, and enterprise-grade quality. Built for Leptos v0.8+ with comprehensive testing, real-t
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [simonklee/tigerstyle](https://github.com/simonklee/tigerstyle) - 
@@ -1827,6 +1829,7 @@
 
 ## Java 
 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS) - The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications, translation, and more. Devs now write 1 app that runs on any pair of smart glases.
 - [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is b
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
@@ -2056,7 +2059,7 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [LayerZero-Labs/endpoint-v1-solidity-examples](https://github.com/LayerZero-Labs/endpoint-v1-solidity-examples) - example contracts
-- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -2383,7 +2386,7 @@
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning Tutorial Notebooks on Google Colab, Kaggle and more.
 - [WinVector/Examples](https://github.com/WinVector/Examples) - Various examples for different articles
 - [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 - [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes
@@ -2494,7 +2497,7 @@
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [mshumer/gpt-author](https://github.com/mshumer/gpt-author) - 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
-- [amaiya/onprem](https://github.com/amaiya/onprem) - A toolkit for applying on-premises large language models to non-public data
+- [amaiya/onprem](https://github.com/amaiya/onprem) - A toolkit for applying LLMs to sensitive, non-public data in offline or restricted environments
 - [philschmid/sagemaker-falcon-180b-samples](https://github.com/philschmid/sagemaker-falcon-180b-samples) - 
 - [LC1332/awesome-colab-project](https://github.com/LC1332/awesome-colab-project) - Awesome Colab Projects Collection
 - [isl-org/ZoeDepth](https://github.com/isl-org/ZoeDepth) - Metric depth estimation from a single image
@@ -2654,6 +2657,7 @@
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser 
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
+- [proto-at-block/bitkey](https://github.com/proto-at-block/bitkey) - Bitkey is a self-custody bitcoin wallet with an app, hardware, and recovery tools.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
@@ -2742,6 +2746,7 @@
 
 ## MDX 
 
+- [enactic/openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [inkonchain/docs](https://github.com/inkonchain/docs) - Ink Documentation
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -2819,6 +2824,8 @@
 
 ## Nix 
 
+- [fort-nix/nixbitcoin.org](https://github.com/fort-nix/nixbitcoin.org) - nix-bitcoin configuration for nixbitcoin.org
+- [krebs/krops](https://github.com/krebs/krops) - Mirror of https://cgit.krebsco.de/krops/about/ (PRs / issues accepted, as can be seen by not having them disabled)
 - [henrysipp/nix-setup](https://github.com/henrysipp/nix-setup) - 
 - [basnijholt/dotfiles](https://github.com/basnijholt/dotfiles) - nix-darwin, homebrew, oh-my-zsh, dotbot, dotbins, macos, linux, submodules, zsh, bash, awesome modern CLI tools — no place like ~/
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
@@ -2878,6 +2885,7 @@
 
 ## Others 
 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [John-Nagle/technotes](https://github.com/John-Nagle/technotes) - Technical notes on Rust, graphics, and metaverses
 - [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) - 
@@ -3409,6 +3417,10 @@
 
 ## Python 
 
+- [tempesta-tech/webshield](https://github.com/tempesta-tech/webshield) - Simple automatic bot protection
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+- [volcengine/MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25):  MCP integration platforms that let AI agents use tools reliably at any scale
 - [google/computer-use-preview](https://github.com/google/computer-use-preview) - 
@@ -3502,7 +3514,6 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
 - [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
@@ -3658,7 +3669,7 @@
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [wild-card-ai/agents-json](https://github.com/wild-card-ai/agents-json) - 
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [open-mmlab/FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter) - FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. AI拟音大师，给你的无声视频添加生动而且同步的音效  😝
+- [open-mmlab/FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter) - [IJCV] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds. AI拟音大师，给你的无声视频添加生动而且同步的音效  😝
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in DeepSeek V3/R1 training.
@@ -3896,7 +3907,7 @@
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
-- [HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The repository of Uni-MoE model series
+- [HITsz-TMG/Uni-MoE](https://github.com/HITsz-TMG/Uni-MoE) - The repository of Uni-MoE model series
 - [maitrix-org/Pandora](https://github.com/maitrix-org/Pandora) - Pandora: Towards General World Model with Natural Language Actions and Video States
 - [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, GLM4.5, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, Llava, GLM4v, Phi4,
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
@@ -3965,7 +3976,7 @@
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
 - [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
 - [GoogleCloudPlatform/localllm](https://github.com/GoogleCloudPlatform/localllm) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -3995,7 +4006,7 @@
 - [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [KAIST-VICLab/FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - [CVPR 2024 Oral] Official repository of FMA-Net
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - Character Animation (AnimateAnyone, Face Reenactment)
 - [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
@@ -4060,7 +4071,7 @@
 - [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion for 3D Generation
 - [Chuny1/3DGPT](https://github.com/Chuny1/3DGPT) - 
 - [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
-- [mouredev/hello-sql](https://github.com/mouredev/hello-sql) - Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde el canal de Twitch de MoureDev.
+- [mouredev/hello-sql](https://github.com/mouredev/hello-sql) - Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes.
 - [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Developer AI Persona Search Agent
 - [SUDO-AI-3D/zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.
 - [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs
@@ -4997,7 +5008,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
 - [lupantech/ScienceQA](https://github.com/lupantech/ScienceQA) - Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
@@ -5204,6 +5215,8 @@
 
 ## Rust 
 
+- [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper is an Apache-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust.
+- [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [x402-rs/x402-rs](https://github.com/x402-rs/x402-rs) - x402 payments in Rust: verify, settle, and monitor payments over HTTP 402 flows
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [OpenDevicePartnership/patina](https://github.com/OpenDevicePartnership/patina) - Patina Firmware
@@ -5307,7 +5320,7 @@
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
-- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries
+- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Rust Client Libraries
 - [gdt050579/AppCUI-rs](https://github.com/gdt050579/AppCUI-rs) - AppCUI is a fast, cross-platform console and text-based user interface (CUI/TUI) framework for Rust. It combines a low-level console engine for input (mouse, keyboard, clipboard, etc.), colors, and re
 - [boundless-xyz/boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol.
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
@@ -5372,6 +5385,7 @@
 - [R9295/autarkie](https://github.com/R9295/autarkie) - Autarkie - Instant Grammar Fuzzing Using Rust Macros
 - [palfrey/serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialised Rust tests
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -5570,7 +5584,7 @@
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a smart proxy server that handles the plumbing work in AI: agent routing and hand off, guardrails, end-to-end traces and unify access to LLMs from OpenAI, Anthropic,
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
 - [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 - [golemcloud/golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
@@ -5886,7 +5900,6 @@
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma ORM
-- [apache/datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Dillonb/nmuidi](https://github.com/Dillonb/nmuidi) - Deletes stuff, hopefully quickly
@@ -6300,7 +6313,7 @@
 - [IWANABETHATGUY/tower-lsp-boilerplate](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate) - 
 - [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
 - [availproject/avail-core](https://github.com/availproject/avail-core) - 
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
@@ -6403,6 +6416,7 @@
 - [chipsalliance/t1](https://github.com/chipsalliance/t1) - 
 - [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) - Rocket Chip Generator
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [apache/datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
@@ -6415,6 +6429,7 @@
 
 ## Shell 
 
+- [pvonmoradi/gsay](https://github.com/pvonmoradi/gsay) - A simple shell script to fetch/play pronunciation of English vocabulary from Google
 - [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [keennay/gpu-cluster-setup](https://github.com/keennay/gpu-cluster-setup) - 
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
@@ -6454,7 +6469,7 @@
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [lvancrayelynghe/ansible-ubuntu](https://github.com/lvancrayelynghe/ansible-ubuntu) - Ansible scripts to setup Ubuntu desktop/server
 - [jasonheecs/ubuntu-server-setup](https://github.com/jasonheecs/ubuntu-server-setup) - A setup script for Ubuntu servers
@@ -6533,7 +6548,6 @@
 - [LayerZero-Labs/LayerZero-v1](https://github.com/LayerZero-Labs/LayerZero-v1) - An Omnichain Interoperability Protocol
 - [SidraChain/sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain
 - [Uniswap/UniswapX](https://github.com/Uniswap/UniswapX) - 🦄 Gasless ERC20 swap settlement protocol 🦄
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [foundry-rs/book](https://github.com/foundry-rs/book) - A book on all things Foundry, available at https://book.getfoundry.sh.
@@ -6565,9 +6579,10 @@
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [joshnuss/svelte-kit-ecommerce-3d](https://github.com/joshnuss/svelte-kit-ecommerce-3d) - Demo using Threlte, SvelteKit and Stripe Checkout
 - [PlebeianApp/plebeian-market-old](https://github.com/PlebeianApp/plebeian-market-old) - (Old version) The Bitcoin-native self-sovereign marketplace
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - Taiko Alethia based rollup protocol 🥁
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
+- [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 
 ## Swift 
 
@@ -6661,6 +6676,8 @@
 
 ## TypeScript 
 
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [rictic/jsonriver](https://github.com/rictic/jsonriver) - A simple, fast streaming JSON parser built on standards.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
@@ -6720,6 +6737,7 @@
 - [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - Find the Root Cause in Your Code's Trace
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [devlikeapro/waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
@@ -6745,7 +6763,7 @@
 - [beeeeep54/rust-typescript](https://github.com/beeeeep54/rust-typescript) - a rust typescript integration
 - [KasPeR0990/yurei-app](https://github.com/KasPeR0990/yurei-app) - a simple social media researcher built with vercels ai sdk
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for AI apps. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal memory system to power your AI apps.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
@@ -6786,7 +6804,6 @@
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 - [square/square-mcp-server](https://github.com/square/square-mcp-server) - A Model Context Protocol (MCP) server for square
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -6872,7 +6889,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
+- [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -6967,7 +6984,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
@@ -7458,7 +7475,7 @@
 - [langchain-ai/langchain-template-supabase](https://github.com/langchain-ai/langchain-template-supabase) - 
 - [craftzdog/vlog-translator](https://github.com/craftzdog/vlog-translator) - A Personal Tool for Transcribing & Translating My Vlogs into Japanese
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - A Runtime Type System for JavaScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -7523,8 +7540,8 @@
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
-- [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [Uniswap/wallet](https://github.com/Uniswap/wallet) - Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
