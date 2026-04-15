@@ -738,6 +738,7 @@
 
 ## C++ 
 
+- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1258,7 +1259,7 @@
 - [RIP-Comm/sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 13 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [dagmawibabi/ScholarXIV](https://github.com/dagmawibabi/ScholarXIV) - ScholArxiv is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.
@@ -1599,7 +1600,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [championswimmer/onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1813,7 +1814,7 @@
 
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [TanmayCzax/AETHRA](https://github.com/TanmayCzax/AETHRA) - ÆTHRA is a music programming language made using C#
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
@@ -3580,6 +3581,7 @@
 
 ## PLpgSQL 
 
+- [lasect/pg_6502](https://github.com/lasect/pg_6502) - the MOS tech 6502 8-bit microprocessor in pure SQL powered by postgres
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
@@ -3598,6 +3600,7 @@
 ## PowerShell 
 
 - [microsoft/hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all C
+- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
@@ -4037,7 +4040,7 @@
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [keycryptovc/base](https://github.com/keycryptovc/base) - Knowledge Base
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [verl-project/verl](https://github.com/verl-project/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [HITsz-TMG/AIGC-Claw](https://github.com/HITsz-TMG/AIGC-Claw) - Your First AIGC Coworker. Chat an Idea. Get a Film. 🦞
@@ -4786,7 +4789,7 @@
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [huggingface/OBELICS](https://github.com/huggingface/OBELICS) - Code used for the creation of OBELICS, an open, massive and curated collection of interleaved image-text web documents, containing 141M documents, 115B text tokens and 353M images.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [rese1f/StableVideo](https://github.com/rese1f/StableVideo) - [ICCV 2023] StableVideo: Text-driven Consistency-aware Diffusion Video Editing
+- [wenhaochai/StableVideo](https://github.com/wenhaochai/StableVideo) - [ICCV 2023] StableVideo: Text-driven Consistency-aware Diffusion Video Editing
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [TsinghuaDatabaseGroup/DB-GPT](https://github.com/TsinghuaDatabaseGroup/DB-GPT) - An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf)
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -5055,7 +5058,7 @@
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [r2d4/openlm](https://github.com/r2d4/openlm) - OpenAI-compatible Python client that can call any LLM
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
+- [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenCao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [JialianW/GRiT](https://github.com/JialianW/GRiT) - GRiT: A Generative Region-to-text Transformer for Object Understanding (ECCV2024)
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
@@ -5150,7 +5153,7 @@
 - [rlancemartin/auto-evaluator](https://github.com/rlancemartin/auto-evaluator) - Evaluation tool for LLM QA chains
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose AI agent based on the OpenAI API.
 - [JagadeeshwaranM/Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified) - 
-- [pegasi-ai/clawreins](https://github.com/pegasi-ai/clawreins) - Intervention layer with audit logs for OpenClaw agents. Browser-aware. Trajectory-aware. Human-routable.
+- [pegasi-ai/clawreins](https://github.com/pegasi-ai/clawreins) - Runtime security for OpenClaw agents. Scan, fix, monitor.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
@@ -5577,6 +5580,7 @@
 
 ## Rust 
 
+- [Lampese/codex-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
@@ -5592,7 +5596,7 @@
 - [t8/hypura](https://github.com/t8/hypura) - Run models too big for your Mac's memory
 - [ricardoquesada/regenerator2000](https://github.com/ricardoquesada/regenerator2000) - An interactive disassembler for the CPU 6502, focused mostly on Commodore 8-bit computers. Features a TUI with modern features like x-ref, undo/redo, arrows, keyboard-driven, mcp server, VICE debugger
 - [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs) - 
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage your Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and g
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a
 - [YuminosukeSato/ironkernel](https://github.com/YuminosukeSato/ironkernel) - Python DSL that compiles element-wise expressions to parallel Rust. All CPU cores, zero serialization.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
@@ -5607,7 +5611,6 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [konkers/irminsul](https://github.com/konkers/irminsul) - Data exporter for Genshin Impact
 - [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. 
-- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [getomnico/omni](https://github.com/getomnico/omni) - Workplace AI Assistant and Search Platform
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation
 - [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo) - Rojo enables Roblox developers to use professional-grade software engineering tools
@@ -7154,7 +7157,7 @@
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
+- [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
@@ -7497,7 +7500,7 @@
 - [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
