@@ -519,6 +519,7 @@
 
 ## ai 
 
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
@@ -1008,6 +1009,7 @@
 
 ## ai-agents 
 
+- [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [GainSec/AutoProber](https://github.com/GainSec/AutoProber) - Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
@@ -3073,6 +3075,7 @@
 - [moritztng/fltr](https://github.com/moritztng/fltr) - Like grep but for natural language questions. Based on Mistral 7B or Mixtral 8x7B.
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -3839,6 +3842,7 @@
 - [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications) - A Flutter plugin for displaying local notifications on Android, iOS, macOS, Linux and Windows
 - [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler) - Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework.
 - [bizz84/starter_architecture_flutter_firebase](https://github.com/bizz84/starter_architecture_flutter_firebase) - Time Tracking app with Flutter & Firebase
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -5064,7 +5068,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [CodyTseng/nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray) - A nostr relay for desktop, available on macOS, Windows, and Linux.
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -5472,6 +5476,7 @@
 - [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler) - Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework.
 - [bizz84/starter_architecture_flutter_firebase](https://github.com/bizz84/starter_architecture_flutter_firebase) - Time Tracking app with Flutter & Firebase
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -5564,6 +5569,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -7060,6 +7066,7 @@
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 
 ## https 
@@ -7217,7 +7224,7 @@
 ## iot 
 
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [RIOT-OS/RIOT](https://github.com/RIOT-OS/RIOT) - RIOT -  The friendly OS for IoT
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
@@ -8115,6 +8122,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Mastercard/pkcs11-tools](https://github.com/Mastercard/pkcs11-tools) - A set of tools to manage objects on PKCS#11 cryptographic tokens. Compatible with many PKCS#11 library, including major HSM brands, NSS and softoken.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
@@ -9426,6 +9434,7 @@
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -10722,6 +10731,8 @@
 
 ## others 
 
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 - [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -10740,7 +10751,7 @@
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal) - Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
 - [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -12347,7 +12358,6 @@
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 - [FuelLabs/sway-applications](https://github.com/FuelLabs/sway-applications) - Swaypplications
 - [kaist-cp/cs431](https://github.com/kaist-cp/cs431) - 
@@ -16954,7 +16964,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -18587,7 +18597,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Native WebRTC low-latency P2P video streaming on Raspberry Pi and NVIDIA Jetson with both hardware and software encoding support.
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
@@ -18698,7 +18708,7 @@
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable, Fast,  Cross-Platform, Free VPN
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [nymtech/nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - Cross-platform open source VPN client built in Rust, with mixnet anonymity and WireGuard speed. Protects metadata, not just IP addresses. Zero-knowledge payments for unlinkable online activities.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -18887,6 +18897,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance for react native. Create anything you want inside ActionSheet.
@@ -19180,7 +19191,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [TeamNewPipe/NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
