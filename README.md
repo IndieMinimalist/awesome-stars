@@ -675,7 +675,7 @@
 - [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform) - The Data Change Processing platform
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [thomhurst/TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
-- [seerge/g-helper](https://github.com/seerge/g-helper) - Fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.
+- [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many mo
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
@@ -1311,7 +1311,6 @@
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
 - [googleapis/elixir-google-api](https://github.com/googleapis/elixir-google-api) - Elixir client libraries for accessing Google APIs.
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -2383,7 +2382,7 @@
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI,
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -3879,7 +3878,7 @@
 - [Growth-Kinetics/DiffMem](https://github.com/Growth-Kinetics/DiffMem) - Git Based Memory Storage for Conversational AI Agent
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [NVIDIA/tilus](https://github.com/NVIDIA/tilus) - Tilus is a tile-level kernel programming language with explicit control over shared memory and registers.
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
@@ -4087,7 +4086,7 @@
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal.
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀 「大模型」2小时完全从0训练64M的小参数LLM！🌏 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -5637,7 +5636,7 @@
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [mwallner/mergetopus](https://github.com/mwallner/mergetopus) - 🐙 untangle complex merges 🐙
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent's operating context, with zero setup and zero latency
 - [Lampese/codex-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
@@ -5701,7 +5700,7 @@
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [ZeroTworu/anet](https://github.com/ZeroTworu/anet) - Simple Rust VPN Client / Server
 - [whispem/minikv](https://github.com/whispem/minikv) - A production-ready distributed key-value store with Raft consensus.
-- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
+- [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) - Pandora is a modern Minecraft launcher that balances ease-of-use with powerful instance management features
@@ -5924,7 +5923,7 @@
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic Python HTTP Client with TLS fingerprint
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [on9au/brainfuck-rs](https://github.com/on9au/brainfuck-rs) - (mostly) High Performance AOT Brainfuck Compiler
-- [e3ntity/nanograd](https://github.com/e3ntity/nanograd) - 
+- [e3ntity/nanograd](https://github.com/e3ntity/nanograd) - Minimal automatic-differentiation engine written in Rust.
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [krustowski/rou2exOS](https://github.com/krustowski/rou2exOS) - A second iteration of the (to be) DOS-friendly hobby OS.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -7219,7 +7218,7 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-- [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+- [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
@@ -7326,7 +7325,7 @@
 - [eggricesoy/filmkit](https://github.com/eggricesoy/filmkit) - Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
@@ -7430,7 +7429,7 @@
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
+- [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -7846,6 +7845,7 @@
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [MarsX-dev/devhunt](https://github.com/MarsX-dev/devhunt) - A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase your
 - [KristjanTammekivi/Haredo](https://github.com/KristjanTammekivi/Haredo) - Node.js library for RabbitMQ
 - [martiliones/icon-set-creator](https://github.com/martiliones/icon-set-creator) - CLI for creating React Native app icons
