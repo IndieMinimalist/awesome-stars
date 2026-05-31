@@ -740,6 +740,7 @@
 
 ## C++ 
 
+- [jmaczan/tiny-vllm](https://github.com/jmaczan/tiny-vllm) - Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [gdevic/FPGA-Calculator](https://github.com/gdevic/FPGA-Calculator) - From FPGA Gates to Scientific Calculator
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -1479,7 +1480,7 @@
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1823,6 +1824,7 @@
 
 ## HTML 
 
+- [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
 - [fikrikarim/parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
@@ -2525,6 +2527,7 @@
 
 ## Jupyter Notebook 
 
+- [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) - Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
@@ -3650,6 +3653,8 @@
 
 ## Python 
 
+- [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, 
 - [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 - [yugr/rust-slides](https://github.com/yugr/rust-slides) - 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -3943,7 +3948,7 @@
 - [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and 
 - [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build Ge
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build ag
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [tripplyons/cuda-fractal-renderer](https://github.com/tripplyons/cuda-fractal-renderer) - Quickly render fractals in CUDA
 - [Danau5tin/terminal-bench-rl](https://github.com/Danau5tin/terminal-bench-rl) - GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard.
@@ -6254,7 +6259,7 @@
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) - Find the password of protected ZIP files.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [dragostis/chili](https://github.com/dragostis/chili) - Rust port of Spice, a low-overhead parallelization library
 - [scsibug/nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/
 - [rust-nostr/nostr](https://github.com/rust-nostr/nostr) - Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
@@ -6794,7 +6799,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [AmadiMichael/evm_simulator_rs](https://github.com/AmadiMichael/evm_simulator_rs) - CLI based transaction simulator supporting any EVM chain, written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [BurntSushi/aho-corasick](https://github.com/BurntSushi/aho-corasick) - A fast implementation of Aho-Corasick in Rust.
@@ -8460,7 +8465,7 @@
 - [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door
 - [tiny-tpu-v2/tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu) - A minimal tensor processing unit (TPU), inspired by Google's TPU V2 and V1
 - [SparcLab/OpenSERDES](https://github.com/SparcLab/OpenSERDES) - Digitally synthesizable architecture for SerDes using Skywater Open PDK 130 nm technology.
-- [splinedrive/kianRiscV](https://github.com/splinedrive/kianRiscV) - RISC-V XV6/Linux SoC, marchID: 0x2b
+- [splinedrive/kianRiscV](https://github.com/splinedrive/kianRiscV) - RISC-V XV6/Linux SoC, marchID: 0x2b, 0x34
 
 ## Vim Script 
 
