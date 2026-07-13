@@ -175,6 +175,7 @@
 
 ## C 
 
+- [Wren6991/RISCBoy](https://github.com/Wren6991/RISCBoy) - Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -518,7 +519,7 @@
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
+- [ithewei/libhv](https://github.com/ithewei/libhv) - 🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT/Redis client/server.
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -657,6 +658,8 @@
 
 ## C# # 
 
+- [par274/sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
+- [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 - [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
@@ -1174,6 +1177,7 @@
 
 ## CSS 
 
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [jj-for-everyone/jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) - A Jujutsu tutorial that requires no previous experience with Git or other version control systems.
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
@@ -1378,6 +1382,7 @@
 
 ## Go 
 
+- [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
@@ -1413,7 +1418,7 @@
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [illarion/lockenv](https://github.com/illarion/lockenv) - Simple, password-based encrypted vault for .env and infrastructure secrets. Like git-crypt or sops, but dramatically simpler. Ideal for small teams and IaC workflows
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
-- [micro/mu](https://github.com/micro/mu) - A personal AI agent
+- [micro/mu](https://github.com/micro/mu) - A personal app server
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [popovicu/g2disk](https://github.com/popovicu/g2disk) - Go monorepo for a framework to build Linux block devices in userspace
 - [arpxspace/smartcommit](https://github.com/arpxspace/smartcommit) - Enforce the habit of self-documenting code through better commit messages.
@@ -1617,6 +1622,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [initia-labs/initia](https://github.com/initia-labs/initia) - Initia L1 source code
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -5053,6 +5059,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [omerbt/TokenFlow](https://github.com/omerbt/TokenFlow) - Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" (ICLR 2024)
 - [nv-nguyen/nope](https://github.com/nv-nguyen/nope) - [CVPR 2024] PyTorch implementation of NOPE: Novel Object Pose Estimation from a Single Image
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [Jamie-Stirling/RetNet](https://github.com/Jamie-Stirling/RetNet) - An implementation of "Retentive Network: A Successor to Transformer for Large Language Models"
 - [kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A
 - [ThioJoe/Full-Stack-AI-Meme-Generator](https://github.com/ThioJoe/Full-Stack-AI-Meme-Generator) - Uses Various AI Service APIs to generate memes with text and images
@@ -5746,6 +5753,9 @@
 
 ## Rust 
 
+- [nahla-nee/wfqueue](https://github.com/nahla-nee/wfqueue) - Simple wait-free queue
+- [Cpp2Rust/cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 - [chojs23/concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
@@ -5759,6 +5769,7 @@
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [jackwener/wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [togatoga/karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
 - [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 - [gglucass/headroom-desktop](https://github.com/gglucass/headroom-desktop) - Unlock 2x more Claude Code and Codex usage
@@ -5962,7 +5973,7 @@
 - [rust9x/rust](https://github.com/rust9x/rust) - UNOFFICIAL "Tier 4" Rust target for Windows 9x/Me/NT/2000/XP/Vista.
 - [redox-os/ion](https://github.com/redox-os/ion) - Mirror of https://gitlab.redox-os.org/redox-os/ion
 - [Hans-Halverson/brimstone](https://github.com/Hans-Halverson/brimstone) - New JavaScript engine written in Rust
-- [logannye/rosalind](https://github.com/logannye/rosalind) - A deterministic, low-memory genomics engine in Rust — run whole-genome workloads on your laptop. Declare your RAM, get a verifiable receipt, and reproduce results byte-for-byte.
+- [logannye/rosalind](https://github.com/logannye/rosalind) - Deterministic, resource-governed per-locus genomics analyses with transactional artifacts, receipts, replay, Arrow, and reproducible sharding.
 - [sinisterMage/sqlpp](https://github.com/sinisterMage/sqlpp) - SQL++, a library for faster and safer SQL
 - [linnix-os/linnix](https://github.com/linnix-os/linnix) - eBPF-powered Linux observability with AI incident detection. AGPL-3.0 licensed.
 - [iagooar/qqqa](https://github.com/iagooar/qqqa) - Fast, stateless LLM for your shell: qq answers; qa runs commands
@@ -7290,7 +7301,6 @@
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [StasPlov/docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [vegardit/docker-softhsm2-pkcs11-proxy](https://github.com/vegardit/docker-softhsm2-pkcs11-proxy) - Docker image to run a virtual HSM (Hardware Security Module) network service based on SoftHSM2 and pkcs11-proxy.
@@ -7495,6 +7505,7 @@
 
 ## TypeScript 
 
+- [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
@@ -7502,7 +7513,6 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
@@ -8285,7 +8295,6 @@
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [goncharov-vlad/ENS-bulk-checker](https://github.com/goncharov-vlad/ENS-bulk-checker) - A command-line tool that efficiently monitors the availability of many Ethereum Name Service (ENS) names at once
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
