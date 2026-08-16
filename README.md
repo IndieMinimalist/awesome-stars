@@ -1188,7 +1188,6 @@
 ## CSS 
 
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [jj-for-everyone/jj-for-everyone.github.io](https://github.com/jj-for-everyone/jj-for-everyone.github.io) - A Jujutsu tutorial that requires no previous experience with Git or other version control systems.
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
 - [sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book) - Book of educational examples for Typst
@@ -3729,7 +3728,7 @@
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [harveyai/harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
-- [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable
+- [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
 - [david-g-3654/homebench](https://github.com/david-g-3654/homebench) - Benchmark your local LLMs: speed, memory, and quality, in one command. TUI leaderboard for Ollama, LM Studio, llama.cpp, and vLLM.
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - [ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) - 
@@ -3750,6 +3749,7 @@
 - [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl) - The Little Book of Reinforcement Learning
 - [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic
 - [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai) - RL-training an AI agent to RL-train AI agents.
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -3820,7 +3820,7 @@
 - [AlexCheema/talos-vs-macbook](https://github.com/AlexCheema/talos-vs-macbook) - microGPT benchmarks: a single M4 Max MacBook Pro P-core in C runs Karpathy's 4192-parameter transformer at ~71x the throughput of TALOS-V2's FPGA implementation.
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [gizmo64k/soulplayer-c64](https://github.com/gizmo64k/soulplayer-c64) - A real 25k-parameter transformer running on a Commodore 64!
@@ -5914,7 +5914,7 @@
 - [Lampese/codex-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
-- [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
+- [LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A fast parser, formatter, static analyzer, and language server for SQLite SQL.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [lightonai/next-plaid](https://github.com/lightonai/next-plaid) - NextPlaid, ColGREP: Multi-vector search, from database to coding agents.
@@ -7323,7 +7323,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [dadtronics/protondrive-linux](https://github.com/dadtronics/protondrive-linux) - 
 - [AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude) - 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
@@ -7465,6 +7465,7 @@
 
 ## Starlark 
 
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Homomorphic Encryption demos
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 
 ## Svelte 
@@ -7491,7 +7492,7 @@
 
 - [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,
 - [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -7599,6 +7600,7 @@
 
 ## TypeScript 
 
+- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -7711,7 +7713,7 @@
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
