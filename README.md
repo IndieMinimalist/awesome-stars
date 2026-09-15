@@ -176,6 +176,7 @@
 
 ## C 
 
+- [rh1tech/frank-386](https://github.com/rh1tech/frank-386) - Tiny386 port to RP2350
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [armory3d/armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
 - [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) - Unlocking _everything_ on the CPU with DRAM scrambling
@@ -1149,7 +1150,6 @@
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
-- [mybigday/whisper.rn](https://github.com/mybigday/whisper.rn) - React Native binding of whisper.cpp.
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
@@ -1421,7 +1421,7 @@
 - [Paca-AI/paca](https://github.com/Paca-AI/paca) - AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [zakirullin/files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. Simple app for .md files.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1776,7 +1776,7 @@
 - [Narasimha1997/fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [okx/go-wallet-sdk](https://github.com/okx/go-wallet-sdk) - Multi-chain golang signature sdk, supports bitcoin, ethereum, solana, ton, etc.
@@ -3760,6 +3760,8 @@
 
 ## Python 
 
+- [anuj0456/OpenArch](https://github.com/anuj0456/OpenArch) - PyTorch implementations of modern open-source LLM architectures (Llama, Qwen, DeepSeek, Gemma, GPT-OSS, Kimi, and more) — written from scratch for readability and learning, based on Sebastian Raschka'
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec
 - [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
@@ -3881,7 +3883,7 @@
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
-- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [gizmo64k/soulplayer-c64](https://github.com/gizmo64k/soulplayer-c64) - A real 25k-parameter transformer running on a Commodore 64!
 - [GainSec/AutoProber](https://github.com/GainSec/AutoProber) - Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.
@@ -3944,7 +3946,7 @@
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [overwirehq/claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
@@ -4254,7 +4256,6 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [valine/training-hot-swap](https://github.com/valine/training-hot-swap) - Pytorch script hot swap: Change code without unloading your LLM from VRAM
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [elastic/detection-rules](https://github.com/elastic/detection-rules) - 
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
@@ -5734,7 +5735,7 @@
 - [microsoft/SpeechT5](https://github.com/microsoft/SpeechT5) - Unified-Modal Speech-Text Pre-Training for Spoken Language Processing
 - [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [deepspeedai/DeepSpeedExamples](https://github.com/deepspeedai/DeepSpeedExamples) - Example models using DeepSpeed
 - [robertmartin8/MolecularNotes](https://github.com/robertmartin8/MolecularNotes) - My Obsidian Second Brain setup
@@ -5830,7 +5831,7 @@
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
-- [spree/spree](https://github.com/spree/spree) - Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform f
+- [spree/spree](https://github.com/spree/spree) - Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platfo
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom
 - [adomokos/Vim-Katas](https://github.com/adomokos/Vim-Katas) - Vim exercises based on the book - Practical Vim.
@@ -7254,7 +7255,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Get web data for AI agents and LLMs - fast, efficient, and reliable with Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Foundational low latency web data collecting in Rust
 - [bkchr/proc-macro-crate](https://github.com/bkchr/proc-macro-crate) - `$crate` in procedural macros.
 - [AbdelStark/madara](https://github.com/AbdelStark/madara) - Modular stack to build Starknet based scaling engines written in Rust
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -7525,7 +7526,7 @@
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [jschmid1/gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) - Allows to use your GoPro camera as a webcam on linux
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [Silfalion/Iphone_docker_osx_passthrough](https://github.com/Silfalion/Iphone_docker_osx_passthrough) - The scripts in here allows one to passthrough a usb controller consequently an iphone to a VM created through Docker OSX, this should work but was tested with other OSs
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
@@ -7575,6 +7576,7 @@
 
 ## Swift 
 
+- [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) - A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
 - [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) - Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM,
@@ -7687,6 +7689,7 @@
 
 ## TypeScript 
 
+- [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) - Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcrip
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
@@ -7997,6 +8000,7 @@
 - [square/square-mcp-server](https://github.com/square/square-mcp-server) - A Model Context Protocol (MCP) server for square
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) - Security scanner for MCP servers
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
@@ -8680,6 +8684,7 @@
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
+- [mybigday/whisper.rn](https://github.com/mybigday/whisper.rn) - React Native binding of whisper.cpp.
 - [mckaywrigley/storybook-ai](https://github.com/mckaywrigley/storybook-ai) - 
 - [wasp-lang/starters](https://github.com/wasp-lang/starters) - Starting points for Wasp applications with batteries included
 - [kyang6/llmparser](https://github.com/kyang6/llmparser) - Classify and extract structured data with LLMs
