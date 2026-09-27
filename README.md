@@ -1401,6 +1401,7 @@
 
 ## Go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -1906,7 +1907,6 @@
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-- [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [danieldugas/HYPERHELL](https://github.com/danieldugas/HYPERHELL) - Welcome to HYPERHELL, the first 4-Dimensional DOOM-Like of its kind.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
@@ -2053,6 +2053,7 @@
 - [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -2174,6 +2175,7 @@
 
 ## JavaScript 
 
+- [androoAGI/starnet](https://github.com/androoAGI/starnet) - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
@@ -3194,12 +3196,12 @@
 - [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz) - A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voice
 - [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 - [litu54/DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
-- [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) - A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.
 - [LazoVelko/neverclick](https://github.com/LazoVelko/neverclick) - Keyboard-driven mouse control using local computer vision.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+- [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books) - A curated list of best cuda programming books
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
@@ -3767,6 +3769,7 @@
 
 ## Python 
 
+- [derv82/wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 - [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre
 - [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 - [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
@@ -3896,7 +3899,7 @@
 - [AlexCheema/talos-vs-macbook](https://github.com/AlexCheema/talos-vs-macbook) - microGPT benchmarks: a single M4 Max MacBook Pro P-core in C runs Karpathy's 4192-parameter transformer at ~71x the throughput of TALOS-V2's FPGA implementation.
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [gizmo64k/soulplayer-c64](https://github.com/gizmo64k/soulplayer-c64) - A real 25k-parameter transformer running on a Commodore 64!
@@ -3918,7 +3921,7 @@
 - [hauntsaninja/git_bayesect](https://github.com/hauntsaninja/git_bayesect) - Bayesian git bisect
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-- [itigges22/ATLAS](https://github.com/itigges22/ATLAS) - Adaptive Test-time Learning and Autonomous Specialization
+- [inferstep/ATLAS](https://github.com/inferstep/ATLAS) - Adaptive Test-time Learning and Autonomous Specialization
 - [alefore/mini_svg](https://github.com/alefore/mini_svg) - Py library to generate SVG visualizations of scientific data
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
@@ -5875,6 +5878,9 @@
 
 ## Rust 
 
+- [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) - Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.
+- [CodeZeno/Claude-Code-Usage-Monitor](https://github.com/CodeZeno/Claude-Code-Usage-Monitor) - Windows taskbar widget for Claude Code, Codex, Cursor and more. Track usage limits and reset times. Free and open source.
+- [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.
 - [nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu) - [Experimental] A virtio device for near-native NVIDIA GPU access in KVM virtual machines.
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
@@ -6026,7 +6032,6 @@
 - [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -6052,7 +6057,7 @@
 - [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
 - [YuminosukeSato/ironkernel](https://github.com/YuminosukeSato/ironkernel) - Python DSL that compiles element-wise expressions to parallel Rust. All CPU cores, zero serialization.
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [koharu-rs/koharu](https://github.com/koharu-rs/koharu) - AI-powered manga translator, written in Rust.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -7708,6 +7713,7 @@
 
 ## SystemVerilog 
 
+- [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) - 
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 
 ## TeX 
@@ -7803,7 +7809,6 @@
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 - [ljtn/epiq](https://github.com/ljtn/epiq) - Distributed, code-native issue tracker - audit workflows via time-travel
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
@@ -8207,6 +8212,7 @@
 - [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - Code editing environment with an AI copilot and real-time collaboration
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -8882,7 +8888,6 @@
 
 ## VHDL 
 
-- [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) - 
 - [lsartory/Clavier](https://github.com/lsartory/Clavier) - An FPGA-based mechanical keyboard with an integrated USB hub and communication interfaces
 
 ## Vala 
@@ -8925,7 +8930,6 @@
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [dannypostma/postmaio-boilerplate](https://github.com/dannypostma/postmaio-boilerplate) - 
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
